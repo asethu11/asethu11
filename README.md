@@ -15,7 +15,7 @@ I'm **Abhishek Sethuraman**, a **UX/UI Designer** currently studying **User Expe
 - Listening to podcasts 🎧
 
 ## GitHub Stats
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asethu11&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark)
 
 Feel free to connect with me through my links below!
 
