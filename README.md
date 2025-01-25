@@ -19,6 +19,6 @@ I'm **Abhishek Sethuraman**, a **UX/UI Designer** currently studying **User Expe
 
 Feel free to connect with me through my links below!
 
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/abhishekramans/))  
-🔗 [Portfolio]([https://your-portfolio-link.com](https://abshk.myportfolio.com))  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/abhishekramans/))  
+🔗 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://abshk.myportfolio.com)
 
