@@ -1,10 +1,24 @@
 # Hi there 👋
 
-My name is Abhishek Sethuraman, and I am a student at Arizona State University. I am a grad student in the UX program.
+I'm **Abhishek Sethuraman**, a **UX/UI Designer** currently studying **User Experience Design** at **Arizona State University**.
 
-Outside uni, I am building a portfolio of design projects, including VR and mobile apps.
 
-Feel free to check out my work and get in touch!
+## Skills
+- **Design Tools**: Figma, Sketch, Adobe XD, InVision
+- **Front-End**: HTML, CSS, JavaScript
+- **Version Control**: Git, GitHub
+- **Other**: Prototyping, Wireframing, User Testing, Interaction Design
 
-🔗 [LinkedIn](https://www.linkedin.com/in/abhishekramans/)
-🔗 [Portfolio](https://abshk.myportfolio.com)
+## Hobbies
+- Soccer 🏀
+- Playing video games 🎮
+- Listening to podcasts 🎧
+
+## GitHub Stats
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark)
+
+Feel free to connect with me through my links below!
+
+🔗 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/abhishekramans/))  
+🔗 [Portfolio]([https://your-portfolio-link.com](https://abshk.myportfolio.com))  
+
