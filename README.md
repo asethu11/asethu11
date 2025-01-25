@@ -4,8 +4,8 @@ I'm **Abhishek Sethuraman**, a **UX/UI Designer** currently studying **User Expe
 
 
 ## Skills
-- **Design Tools**: Figma, Sketch, Adobe XD, InVision
-- **Front-End**: HTML, CSS, JavaScript
+- **Design Tools**: Figma, Sketch
+- **Front-End**: HTML, CSS
 - **Version Control**: Git, GitHub
 - **Other**: Prototyping, Wireframing, User Testing, Interaction Design
 
