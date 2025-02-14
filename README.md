@@ -9,11 +9,6 @@ I'm **Abhishek Sethuraman**, a **UX/UI Designer** currently studying **User Expe
 - **Version Control**: Git, GitHub
 - **Other**: Prototyping, Wireframing, User Testing, Interaction Design
 
-## Hobbies
-- Soccer 🏀
-- Playing video games 🎮
-- Listening to podcasts 🎧
-
 ## GitHub Stats
 ![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asethu11&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=dark)
 
