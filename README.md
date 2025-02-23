@@ -2,13 +2,13 @@
 
 > Updated 1/23/25
 
-I'm **Abhishek Sethuraman**, a **UX/UI Designer** and **User Experience Design** student at **Arizona State University**. I’m passionate about crafting seamless user experiences and designing interfaces that make people’s lives easier. When I’m not designing, you can find me learning new tools, exploring the world of virtual reality, or diving into my next creative project. 🚀
+I'm **Abhishek Sethuraman**, a **UX/UI Designer** and **User Experience Design** student at **Arizona State University**. 
 
 ---
 
 ## My Skills ✨
 - **Design Tools**: Figma, Sketch, Adobe Creative Suite  
-- **Front-End**: HTML, CSS  
+- **Front-End**: HTML, CSS, JS
 - **Version Control**: Git, GitHub  
 - **Other**: Prototyping, Wireframing, User Testing, Interaction Design  
 
