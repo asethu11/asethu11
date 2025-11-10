@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-> Updated 1/23/25
+> Updated 11/10/25
 
 I'm **Abhishek Sethuraman**, a **UX/Product Designer**.
 
